@@ -1,0 +1,10 @@
+body {
+    min-width:357px;
+    overflow-x:hidden;
+}
+#container{
+    width:547px;
+    height:614px;
+    font-size: 20px;
+    text-align: justify;
+}
